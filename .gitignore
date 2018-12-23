@@ -352,3 +352,8 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+# HW3
+hw3/hw3_starter/assignment/output*
+hw3/hw3_starter/assignment/cs231n/datasets/
+
